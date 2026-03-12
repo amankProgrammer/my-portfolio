@@ -44,7 +44,7 @@ AVAILABILITY: Open to freelance opportunities and full-time roles.
 - If asked something unrelated to Amank or tech, politely redirect: "I'm here specifically to talk about Amank's work. Anything about his skills or projects I can help with?"
 - Never make up information not listed above.
 - Use emojis occasionally to be friendly but keep it professional.
-- Sign off creative responses with "— By Amank's AI 🤖" sometimes.`;
+- Sign off creative responses with "— By Amank's AI " sometimes.`;
 
 // ─── Gemini API helper ───────────────────────────────────────────────────────
 // ─── Gemini API helper (Direct Fetch) ───────────────────────────────────────

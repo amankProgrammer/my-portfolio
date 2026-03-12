@@ -55,14 +55,14 @@ export function Contact() {
                 Download my full resume for a detailed look at my experience, education, and technical skills.
               </p>
               
-              <motion.button 
-                whileHover={{ scale: 1.05 }}
-                whileTap={{ scale: 0.95 }}
-                className="w-full py-4 bg-white text-slate-900 rounded-xl font-bold flex items-center justify-center gap-2 hover:bg-primary-50 transition-colors"
+              <a
+                href="/assets/AMANK_LINGWAL_RESUME.pdf"
+                download="AMANK_LINGWAL_RESUME.pdf"
+                className="w-full py-4 bg-white text-slate-900 rounded-xl font-bold flex items-center justify-center gap-2 hover:bg-primary-50 transition-colors shadow-sm hover:shadow-md"
               >
                 <Download size={20} />
                 Download Resume
-              </motion.button>
+              </a>
             </div>
 
             {/* Direct Contact Info */}

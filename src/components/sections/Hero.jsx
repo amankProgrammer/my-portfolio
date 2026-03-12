@@ -75,7 +75,8 @@ export function Hero() {
               <ArrowRight className="group-hover:translate-x-1 transition-transform" size={20} />
             </a>
             <a 
-              href="#resume" 
+              href="/assets/AMANK_LINGWAL_RESUME.pdf"
+              download="AMANK_LINGWAL_RESUME.pdf"
               className="group flex items-center gap-2 px-8 py-4 rounded-xl bg-white text-slate-900 font-medium hover:bg-slate-50 transition-all duration-300 border border-slate-200 shadow-sm hover:shadow-md"
             >
               <Download className="group-hover:-translate-y-1 transition-transform text-slate-500" size={20} />
