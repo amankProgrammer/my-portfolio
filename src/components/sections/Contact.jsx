@@ -117,7 +117,7 @@ export function Contact() {
                     onChange={(e) => setFormState({...formState, name: e.target.value})}
                     required
                     className="w-full px-5 py-4 rounded-xl bg-slate-50 border border-slate-200 focus:border-primary-500 focus:bg-white focus:ring-4 ring-primary-500/10 transition-all outline-none text-slate-800"
-                    placeholder="John Doe"
+                    placeholder="Enter your name ...."
                   />
                 </div>
                 <div className="space-y-2">
@@ -129,7 +129,7 @@ export function Contact() {
                     onChange={(e) => setFormState({...formState, email: e.target.value})}
                     required
                     className="w-full px-5 py-4 rounded-xl bg-slate-50 border border-slate-200 focus:border-primary-500 focus:bg-white focus:ring-4 ring-primary-500/10 transition-all outline-none text-slate-800"
-                    placeholder="john@example.com"
+                    placeholder="abc@example.com"
                   />
                 </div>
               </div>

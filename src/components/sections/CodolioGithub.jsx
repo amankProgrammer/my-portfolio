@@ -45,6 +45,7 @@ export function CodolioGithub() {
                   <iframe 
                     src="https://codolio.com/profile/akProgrammer/card" 
                     title="Codolio Profile" 
+                    loading="lazy"
                     style={{width: '100%', height: '800px', border: 'none', transform: 'scale(0.65)', transformOrigin: 'top left', marginBottom: '-280px'}}
                     scrolling="no"
                   />
